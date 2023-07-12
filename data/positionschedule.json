@@ -1,0 +1,15 @@
+{
+    "lookup": {
+        "tablename": "positionschedule",
+        "items": [
+            {
+                "id": 1,
+                "label": "Full time"
+            },
+            {
+                "id": 2,
+                "label": "Part time"
+            }
+        ]
+    }
+}

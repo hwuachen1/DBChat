@@ -1,0 +1,79 @@
+{
+    "lookup": {
+        "tablename": "country_subdivision",
+        "items": [
+            {
+                "id": 1,
+                "label": "-- no value --"
+            },
+            {
+                "id": 4601,
+                "label": "Baden-W\u00fcrttemberg"
+            },
+            {
+                "id": 4602,
+                "label": "Bavaria"
+            },
+            {
+                "id": 4603,
+                "label": "Berlin"
+            },
+            {
+                "id": 4604,
+                "label": "Brandenburg"
+            },
+            {
+                "id": 4605,
+                "label": "Bremen"
+            },
+            {
+                "id": 4606,
+                "label": "Hamburg"
+            },
+            {
+                "id": 4607,
+                "label": "Hesse"
+            },
+            {
+                "id": 4609,
+                "label": "Lower Saxony"
+            },
+            {
+                "id": 4608,
+                "label": "Mecklenburg-Western Pomerania"
+            },
+            {
+                "id": 4610,
+                "label": "North Rhine-Westphalia"
+            },
+            {
+                "id": 4611,
+                "label": "Rhineland-Palatinate"
+            },
+            {
+                "id": 4612,
+                "label": "Saarland"
+            },
+            {
+                "id": 4613,
+                "label": "Saxony"
+            },
+            {
+                "id": 4614,
+                "label": "Saxony-Anhalt"
+            },
+            {
+                "id": 4615,
+                "label": "Schleswig-Holstein"
+            },
+            {
+                "id": 4616,
+                "label": "Thuringia"
+            },
+            {
+                "id": 46,
+                "label": "Nationwide"
+            }
+        ]
+    }
+}

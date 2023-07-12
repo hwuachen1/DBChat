@@ -1,0 +1,135 @@
+{
+    "lookup": {
+        "tablename": "career_level",
+        "items": [
+            {
+                "id": 32,
+                "label": "Advance Programme"
+            },
+            {
+                "id": 1,
+                "label": "Analyst"
+            },
+            {
+                "id": 10,
+                "label": "Analyst Graduate Programme"
+            },
+            {
+                "id": 11,
+                "label": "Analyst Internship Programme"
+            },
+            {
+                "id": 26,
+                "label": "Analyst Lateral Programme"
+            },
+            {
+                "id": 29,
+                "label": "Apprenticeship Programme"
+            },
+            {
+                "id": 12,
+                "label": "Associate Programme"
+            },
+            {
+                "id": 13,
+                "label": "GROW Programme"
+            },
+            {
+                "id": 14,
+                "label": "Insight Programme"
+            },
+            {
+                "id": 30,
+                "label": "MONA Programme"
+            },
+            {
+                "id": 15,
+                "label": "Off-cycle"
+            },
+            {
+                "id": 33,
+                "label": "Quantitative Internship Programme"
+            },
+            {
+                "id": 16,
+                "label": "Referendariat"
+            },
+            {
+                "id": 31,
+                "label": "RISE Programme"
+            },
+            {
+                "id": 23,
+                "label": "Aspiring Talent Programme"
+            },
+            {
+                "id": 2,
+                "label": "Assistant Vice President"
+            },
+            {
+                "id": 22,
+                "label": "Associate Internship Programme"
+            },
+            {
+                "id": 17,
+                "label": "DB Academy Programme"
+            },
+            {
+                "id": 18,
+                "label": "dbAchieve Internship Programme"
+            },
+            {
+                "id": 28,
+                "label": "dbEnable Programme"
+            },
+            {
+                "id": 25,
+                "label": "Entry Level Roles"
+            },
+            {
+                "id": 24,
+                "label": "Industrial Placement Programme"
+            },
+            {
+                "id": 19,
+                "label": "Praktikum"
+            },
+            {
+                "id": 20,
+                "label": "Seasonal Internship Programme"
+            },
+            {
+                "id": 27,
+                "label": "SG Traineeship Programme"
+            },
+            {
+                "id": 21,
+                "label": "Spring into Banking Programme"
+            },
+            {
+                "id": 3,
+                "label": "Associate"
+            },
+            {
+                "id": 4,
+                "label": "Director"
+            },
+            {
+                "id": 5,
+                "label": "Managing Director"
+            },
+            {
+                "id": 6,
+                "label": "No Corporate Title"
+            },
+            {
+                "id": 7,
+                "label": "Not Applicable"
+            },
+            {
+                "id": 8,
+                "label": "Vice President"
+            }
+        ]
+    }
+}

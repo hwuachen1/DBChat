@@ -1,0 +1,87 @@
+{
+    "lookup": {
+        "tablename": "profession_category",
+        "items": [
+            {
+                "id": 1000,
+                "label": "Administration & Support"
+            },
+            {
+                "id": 1,
+                "label": "Banking, Sales & Investment"
+            },
+            {
+                "id": 1001,
+                "label": "Business Effectiveness"
+            },
+            {
+                "id": 2,
+                "label": "Business Strategy & Support"
+            },
+            {
+                "id": 1002,
+                "label": "Client Advisory & Origination"
+            },
+            {
+                "id": 1003,
+                "label": "Finance, Audit & Risk"
+            },
+            {
+                "id": 3,
+                "label": "FLSA Non-exempt (USA Only)"
+            },
+            {
+                "id": 1004,
+                "label": "Human Capital Management & Development"
+            },
+            {
+                "id": 1005,
+                "label": "Investment Management"
+            },
+            {
+                "id": 1006,
+                "label": "Legal, Compliance & Regulatory"
+            },
+            {
+                "id": 1007,
+                "label": "Marketing & Communications"
+            },
+            {
+                "id": 1008,
+                "label": "Operations"
+            },
+            {
+                "id": 1009,
+                "label": "POI & Services"
+            },
+            {
+                "id": 1010,
+                "label": "Product Management"
+            },
+            {
+                "id": 4,
+                "label": "Risk, Control & Financial"
+            },
+            {
+                "id": 1011,
+                "label": "Sales Coverage"
+            },
+            {
+                "id": 5,
+                "label": "Service Operations &Technology"
+            },
+            {
+                "id": 1012,
+                "label": "Strategy & Change"
+            },
+            {
+                "id": 1013,
+                "label": "Technology"
+            },
+            {
+                "id": 1014,
+                "label": "Trading & Research"
+            }
+        ]
+    }
+}

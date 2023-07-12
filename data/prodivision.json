@@ -1,0 +1,139 @@
+{
+    "lookup": {
+        "tablename": "prodivision",
+        "items": [
+            {
+                "id": 26,
+                "label": "Arts, Culture and Sport"
+            },
+            {
+                "id": 17,
+                "label": "Board"
+            },
+            {
+                "id": 10051,
+                "label": "Capital Release Unit"
+            },
+            {
+                "id": 14,
+                "label": "Chairman"
+            },
+            {
+                "id": 10056,
+                "label": "Chief Admin Office"
+            },
+            {
+                "id": 10,
+                "label": "Chief Administrative Office"
+            },
+            {
+                "id": 8,
+                "label": "Chief Financial Office"
+            },
+            {
+                "id": 7,
+                "label": "Chief Operating Office"
+            },
+            {
+                "id": 15,
+                "label": "Chief Regulatory Office"
+            },
+            {
+                "id": 9,
+                "label": "Chief Risk Office"
+            },
+            {
+                "id": 10054,
+                "label": "Chief Transformation Office"
+            },
+            {
+                "id": 10058,
+                "label": "Chief Transformation Office and Global Procurement"
+            },
+            {
+                "id": 18,
+                "label": "Coordination of RM COO"
+            },
+            {
+                "id": 10050,
+                "label": "Corporate Bank"
+            },
+            {
+                "id": 10053,
+                "label": "Deutsche Bank Management Consulting"
+            },
+            {
+                "id": 10033,
+                "label": "Deutsche Bank Wealth Management"
+            },
+            {
+                "id": 4,
+                "label": "DWS"
+            },
+            {
+                "id": 12,
+                "label": "Global Governance Function"
+            },
+            {
+                "id": 1,
+                "label": "Global Markets"
+            },
+            {
+                "id": 13,
+                "label": "HR, Special Groups and WC"
+            },
+            {
+                "id": 10034,
+                "label": "Human Resources"
+            },
+            {
+                "id": 2,
+                "label": "Investment Bank"
+            },
+            {
+                "id": 10057,
+                "label": "Investment Bank and Corporate Bank Central"
+            },
+            {
+                "id": 11,
+                "label": "Legal"
+            },
+            {
+                "id": 9999,
+                "label": "No Division Specified"
+            },
+            {
+                "id": 6,
+                "label": "Non-Core Operation Unit"
+            },
+            {
+                "id": 10055,
+                "label": "Other"
+            },
+            {
+                "id": 5,
+                "label": "Postbank"
+            },
+            {
+                "id": 10032,
+                "label": "Private Bank"
+            },
+            {
+                "id": 3,
+                "label": "Private, Wealth and Commercial Clients"
+            },
+            {
+                "id": 16,
+                "label": "Regional Management"
+            },
+            {
+                "id": 24,
+                "label": "SIC Country Footprint"
+            },
+            {
+                "id": 10052,
+                "label": "Technology Data & Innovation"
+            }
+        ]
+    }
+}
